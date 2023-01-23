@@ -1,0 +1,6 @@
+#osoba=("Sofija",25,"ucenik")
+
+#ime, godine,status=osoba
+#print(osoba)
+a=[1,3,4,2,8,5]
+print(max(a))
